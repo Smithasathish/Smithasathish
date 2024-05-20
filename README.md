@@ -30,5 +30,5 @@ Here are a few projects I've worked on:
 2. https://github.com/Smithasathish/WeatherAppProject - WeatherAppProject.
 
 
-Feel free to explore more on my 
+Feel free to explore more on my https://github.com/Smithasathish
 
